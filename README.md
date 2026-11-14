@@ -2,7 +2,7 @@
 
 ![Minimap Maker icon](icons/icon_128.png)
 
-Make and edit minimaps (`mapname_overhead.jpg`) for **Savage XR** maps, right in your browser. Nothing to install.
+Make and edit minimaps (`mapname_overhead.jpg`) for **Savage DRX** maps, right in your browser. Nothing to install.
 
 **Use it here:** https://SavageDRX.github.io/savage-minimap-maker/
 
